@@ -1,4 +1,7 @@
 ## Olá, sou o Roney, cientista de dados em desenvolvimento
+  -   E-mail: nogueiraroney453@gmail.com;
+  -   Linkedin: https://www.linkedin.com/in/roney-nogueira-de-sousa-b278451b3
+  -   Lattes: http://lattes.cnpq.br/9701779596792280
 
 ### Foi uma longa jornada para você chegar aqui, descanse um pouco para recuperar suas energias
 <div align="center">
@@ -30,7 +33,8 @@ Roney = {
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RNy7846&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RNy7846&layout=compact&langs_count=7&theme=gotham"/>
-    
 </div>
   
+##
 
+![Snake animation](https://github.com/RNy7846/RNy7846/blob/output/github-contribution-grid-snake.svg)
