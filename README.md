@@ -1,16 +1,36 @@
-### Hi there 👋
+## Olá, sou o Roney, cientista de dados em desenvolvimento
 
-<!--
-**RNy7846/RNY7846** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Foi uma longa jornada para você chegar aqui, descanse um pouco para recuperar suas energias
+<div align="center">
+<img align='center'  src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="800">
+</div>
 
-Here are some ideas to get you started:
+### ⚙ Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```Python
+print("Hello World")
+Developer = 'Roney Nogueira'
+
+Roney = {
+    Pronomes: "Ele" | "Dele",
+    Profissão: Estudante,
+    Tecnologias: [HTML, CSS, Javascript, PHP, Java, SQL, Python, R, C, SQL, Git, MATLAB]
+    IDEs_e_Editores: [VS Code, Sublime Text 3, PyCharm, Spyder, NetBeans, Code::Blocks, Eclipse],
+    Apendendo: [R],
+    contato: nogueiraroney453@gmail.com
+}
+
+```
+<div> 
+  <a href="https://www.linkedin.com/in/roney-nogueira-de-sousa-b278451b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
+
+### ⚙ Analytics
+
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RNy7846&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RNy7846&layout=compact&langs_count=7&theme=gotham"/>
+    
+</div>
+  
+
