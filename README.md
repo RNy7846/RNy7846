@@ -19,7 +19,7 @@ Roney = {
     Profissão: Estudante,
     Tecnologias: [HTML, CSS, Javascript, PHP, Java, SQL, Python, R, C, SQL, Git, MATLAB]
     IDEs_e_Editores: [VS Code, Sublime Text 3, PyCharm, Spyder, NetBeans, Code::Blocks, Eclipse],
-    Apendendo: [R],
+    Aprendendo: [Node.js],
     contato: nogueiraroney453@gmail.com
 }
 
