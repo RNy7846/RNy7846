@@ -3,11 +3,6 @@
   -   Linkedin: https://www.linkedin.com/in/roney-nogueira-de-sousa-b278451b3;
   -   Lattes: http://lattes.cnpq.br/9701779596792280;
 
-### Foi uma longa jornada para você chegar aqui, descanse um pouco para recuperar suas energias
-<div align="center">
-<img align='center'  src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="800">
-</div>
-
 ### ⚙ Sobre mim
 
 ```Python
@@ -36,5 +31,3 @@ Roney = {
 </div>
   
 ##
-
-![Snake animation](https://github.com/RNy7846/RNy7846/blob/output/github-contribution-grid-snake.svg)
